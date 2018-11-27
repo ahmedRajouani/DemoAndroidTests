@@ -21,5 +21,7 @@ In androidTest folder i created 3 folders:
 
 4.In the root you will find .circle/config.yml for the Deploy the tests on CircleCI
 
+https://circleci.com/gh/ahmedRajouani/DemoAndroidTests
+
 
 © 2018 GitHub, Inc.
